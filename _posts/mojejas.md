@@ -1,0 +1,7 @@
+---
+layout: category-post
+title:  "Que Mojeja"
+date:   2024-07-07 20:20:56 -0400
+categories: writing
+---
+# Hola mundo que mojeja primo
