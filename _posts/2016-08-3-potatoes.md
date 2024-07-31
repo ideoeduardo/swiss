@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Potatoes"
-date:   2016-08-3
+date:   2024-08-03
 categories: writing
 ---
 
